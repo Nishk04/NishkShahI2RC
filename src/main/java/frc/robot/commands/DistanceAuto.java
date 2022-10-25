@@ -48,4 +48,3 @@ public class DistanceAuto extends CommandBase {
     return false;
   }
 }
-
