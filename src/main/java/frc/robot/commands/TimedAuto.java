@@ -33,7 +33,6 @@ public class TimedAuto extends CommandBase {
     } else if ((timer.get() < 3) && (timer.get() > 2)) {
       drive.tankDrive(-0.3, -0.3);
     }
-
   }
 
   // Called once the command ends or is interrupted.
